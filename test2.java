@@ -30,6 +30,7 @@ public class test2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 A a = new A(50);
+		 A a1 = new A(20);
 	}
 
 }
