@@ -29,7 +29,7 @@ public class test2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		 A a = new A(50);
+		 A a = new A(70);
 		 A a1 = new A(20);
 		A a2 = new A(20);
                 A a3 = new A(20);
