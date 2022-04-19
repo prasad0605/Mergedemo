@@ -34,6 +34,7 @@ public class test2 {
 		A a2 = new A(20);
                 A a3 = new A(20);
 		A a4 = new A(40);
+		A a5 = new A(50);
 	}
 
 }
